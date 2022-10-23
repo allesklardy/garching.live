@@ -1,0 +1,5 @@
+baseURL = 'https://garching.live/'
+languageCode = 'de-de'
+title = 'Garching'
+
+theme = "hugo-theme-stack"
