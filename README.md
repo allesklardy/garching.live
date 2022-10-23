@@ -1,2 +1,1 @@
-# garching.live
-Everything about Garching
+Example site modified from https://github.com/gohugoio/hugoBasicExample

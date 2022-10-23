@@ -1,11 +1,11 @@
-baseurl: https://example.com
-languageCode: en-us
+baseurl: https://garching.live
+languageCode: de-de
 theme: hugo-theme-stack
 paginate: 5
 title: Garching
 
 languages:
-    en:
+    de:
         languageName: Deutsch
         title: Garching
         description: Example description
@@ -45,8 +45,8 @@ params:
         lastUpdated: Jan 02, 2006 15:04 MST
 
     sidebar:
-        emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        emoji: 😎️
+        subtitle: Die Hauptstadt von München
         avatar:
             enabled: true
             local: true
@@ -185,18 +185,18 @@ params:
 menu:
     main: []
 
-    social:
-        - identifier: github
-          name: GitHub
-          url: https://github.com/CaiJimmy/hugo-theme-stack
-          params:
-              icon: brand-github
+    # social:
+    #     - identifier: github
+    #       name: GitHub
+    #       url: https://github.com/CaiJimmy/hugo-theme-stack
+    #       params:
+    #           icon: brand-github
 
-        - identifier: twitter
-          name: Twitter
-          url: https://twitter.com
-          params:
-              icon: brand-twitter
+    #     - identifier: mastodon
+    #       name: Mastodon
+    #       url: https://twitter.com
+    #       params:
+    #           icon: brand-twitter
 
 related:
     includeNewer: true
