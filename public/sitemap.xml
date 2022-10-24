@@ -3,15 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://garching.live/</loc>
-    <lastmod>2020-10-09T00:00:00+00:00</lastmod>
+    <lastmod>2022-10-24T16:14:49+02:00</lastmod>
+  </url><url>
+    <loc>https://garching.live/post/</loc>
+    <lastmod>2022-10-24T16:14:49+02:00</lastmod>
+  </url><url>
+    <loc>https://garching.live/p/willkommen-garching/</loc>
+    <lastmod>2022-10-24T16:14:49+02:00</lastmod>
   </url><url>
     <loc>https://garching.live/categories/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://garching.live/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://garching.live/post/</loc>
     <lastmod>2020-09-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://garching.live/categories/test/</loc>
