@@ -2,6 +2,7 @@
 title: "Willkommen Garching"
 date: 2022-10-24T16:14:49+02:00
 draft: false
+image: "pexels-pixabay-158316.jpg"
 ---
 
 # Nett Hier! Aber waren Sie schonmal in Garching?
