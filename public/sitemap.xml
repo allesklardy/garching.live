@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://garching.live/</loc>
-    <lastmod>2022-10-24T16:14:49+02:00</lastmod>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://garching.live/page/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://garching.live/%C3%BCber-uns/</loc>
+    <lastmod>2022-10-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://garching.live/post/</loc>
     <lastmod>2022-10-24T16:14:49+02:00</lastmod>
@@ -14,12 +20,11 @@
     <loc>https://garching.live/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://garching.live/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://garching.live/categories/</loc>
   </url><url>
     <loc>https://garching.live/links/</loc>
+  </url><url>
+    <loc>https://garching.live/search/</loc>
   </url><url>
     <loc>https://garching.live/tags/</loc>
   </url><url>

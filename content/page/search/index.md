@@ -10,5 +10,5 @@ menu:
         weight: -60
         params: 
             icon: search
-draft: true
+draft: false
 ---
